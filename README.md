@@ -8,7 +8,6 @@
 
 ### 🥰 FEATURES
 
-<details><summary>Tap On Me For Bot Features</summary>
 
  - Renames very fast.
  - Support 4Gb Rename.
@@ -23,7 +22,7 @@
  - Supports ulimited renaming at a time.
  - Deploy to Koyeb + Heroku + Railway + Render.
  - Developer Service 24x7.
-</details>
+
 
 
 ### 🔥 VARIABLES
