@@ -9,19 +9,22 @@
 ### 🥰 FEATURES
 
 
- - Renames very fast.
- - Support 4Gb Rename.
- - Premium plan feature.
- - Permanent Thumbnail support.
- - Supports Broadcasts.
- - Set custom caption.
- - Metadata added.
- - Convert video into file & vice versa.
- - Has a custom Start-up pic.
- - Force subscribe available.
- - Supports ulimited renaming at a time.
- - Deploy to Koyeb + Heroku + Railway + Render.
- - Developer Service 24x7.
+ - NTF Display.
+ - Alarm.
+ - Stopwatch/Timer.
+ - Date and Day Display.
+ - Snooze Function.
+ - Wi-Fi Connectivity.
+ - Bluetooth Connectivity.
+ - Temperature and Humidity Display.
+ - Radio and Music Integration.
+ - Atomic Timekeeping.
+ - Battery.
+ - Schedule Management.
+ - Bot.
+ - NTF Storage
+ - Kurama Storage
+ - Alert Sensor 
 
 
 
