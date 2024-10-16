@@ -12,7 +12,7 @@
  - Rivera : Upto 4096 MB. It's store private file.
  - Saito : <limit>Upto 27 GB. It's store normal file
  - NTF : <limit>Upto 4096 MB. It's store permanent or important file.
- - Kyne : <limit>Upto 8GB. It's for backup.
+ - ``Kyne`` : <limit>Upto 8GB. It's for backup.
 
 
 
@@ -25,7 +25,7 @@
 * `BOT_TOKEN` - Get BOT TOKEN From <a href="https://youtu.be/aJILCCXfNVM" target="/blank">Bot Father</a>
 * `ADMIN` - Add Your User ID, If Multiple Is Use Space To Split
 * `LOG_CHANNEL` - Bot Logs Channel To Sending User Data & 4GB Premium Client To Use, Id Must Startswith -100 & Make Sure Bot Is Admin In This Channel
-* `DATABASE_URL` - Mongo Database URL From <a href="https://youtu.be/pMJpHoiu1go" target="/blank">Mongo DB</a>
+* `` - Mongo Database URL From <a href="https://youtu.be/pMJpHoiu1go" target="/blank">Mongo DB</a>
 * `DATABASE_NAME`  - Your Mongo Database Name From Mongo DB (Optional)
 * `FORCE_SUBS` - Your Force Subscribe Channel Username Without @ (Optional)
 * `START_PIC` - Your Bot Start Command Pic (Optional)
