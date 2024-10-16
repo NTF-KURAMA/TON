@@ -6,25 +6,13 @@
 
 
 
-### 🥰 FEATURES
+### Storage Limit 
 
 
- - NTF Display.
- - Alarm.
- - Stopwatch/Timer.
- - Date and Day Display.
- - Snooze Function.
- - Wi-Fi Connectivity.
- - Bluetooth Connectivity.
- - Temperature and Humidity Display.
- - Radio and Music Integration.
- - Atomic Timekeeping.
- - Battery.
- - Schedule Management.
- - Bot.
- - NTF Storage
- - Kurama Storage
- - Alert Sensor 
+ - Rivera : Upto 4096 MB. It's store private file.
+ - Saito : Upto 27 GB. It's store normal file
+ - NTF : Upto 4096 MB. It's store permanent or important file.
+ - Kyne : Upto 8GB. It's for backup.
 
 
 
