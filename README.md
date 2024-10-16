@@ -12,7 +12,7 @@
  - Rivera : Upto 4096 MB. It's store private file.
  - Saito : <limit>Upto 27 GB. It's store normal file
  - NTF : <limit>Upto 4096 MB. It's store permanent or important file.
- - ``Kyne`` : <limit>Upto 8GB. It's for backup.
+ - `KYNE` : <limit>Upto 8GB. It's for backup.
 
 
 
